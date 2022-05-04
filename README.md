@@ -1,8 +1,7 @@
-# Treinamento Hiring Coders #3
+# Treinamento Hiring Coders #3 💻 🏁 🥇 
 
-## Esse repositório é destinado ao treinamento Hiring Coders #3, da VTEX em parceria com a Gama Academy.
-## Estou muito feliz em fazer parte disso.
+### Esse repositório é destinado ao treinamento Hiring Coders #3, da VTEX em parceria com a Gama Academy.
 
-## Projetos:
+### Projetos:
 
-### 1 - Portifólio
+* 1 - Portifólio
