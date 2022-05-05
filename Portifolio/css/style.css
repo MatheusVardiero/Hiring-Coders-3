@@ -21,7 +21,7 @@ header {
 }
 
 header img {
-  width: 70px;
+  width: 50px;
 }
 
 header ul {
@@ -35,6 +35,7 @@ header ul li {
   margin: 15px;
   font-weight: 800;
 }
+
 
 header ul li a:hover{
   color: tomato;
@@ -90,7 +91,7 @@ a {
 }
 
 #about p {
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
   font-size: 23px;
   margin-bottom: 10px;
@@ -99,11 +100,16 @@ a {
   margin-top: -20px;
 }
 
+
 .email {
   margin: 0 auto;
   font-size: 25px;
   font-weight: 400;
   margin-top: 20px;
+}
+
+.container .email a:hover {
+  color: tomato;
 }
 
 /* Responsividade */
