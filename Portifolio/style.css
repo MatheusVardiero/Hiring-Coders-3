@@ -78,7 +78,7 @@ a {
 }
 
 #animation {
-  transition: 400ms;
+  transition: none 400ms;
 }
 
 .rotate {
