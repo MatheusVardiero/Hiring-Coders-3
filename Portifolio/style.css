@@ -135,9 +135,9 @@ a {
     font-size: 20px;
   }
 
-  #about p {
+  /* #about p {
     text-align: justify;
-  }
+  } */
 
   header {
     min-width: 540px;
