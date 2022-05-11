@@ -4,4 +4,6 @@
 
 ### Projetos:
 
-* 1 - Portifólio
+* 1 - Portifólio*
+
+* 2 - Validar CPF*
