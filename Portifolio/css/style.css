@@ -5,12 +5,17 @@
 }
 
 body {
-  background-image: url(./textura-de-parede.jpg);
+  background-image: url(/portifolio/img/textura-de-parede.jpg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 2600px;
   background-position: center center fixed;
+  /* background-color: royalblue; */
   color: white;
   font-family: 'Nunito', sans-serif;
+  /* margin: 0; 
+  height: 100%; 
+  overflow: hidden; */
+  
 }
 
 header {
