@@ -4,6 +4,8 @@
 
 ### Projetos:
 
-* 1 - Portifólio*
+*1 - Portifólio*
 
-* 2 - Validar CPF*
+*2 - Validar CPF*
+
+*3 - Pesquisa de repositorios utilizando REACT*
