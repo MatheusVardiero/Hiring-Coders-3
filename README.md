@@ -8,4 +8,4 @@
 
 *2 - Validar CPF*
 
-*3 - Pesquisa de repositorios utilizando REACT*
+*3 - Gamagit - Pesquisa de repositorios utilizando REACT*
